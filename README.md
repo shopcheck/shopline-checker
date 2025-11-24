@@ -6,6 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-2.1.0-green.svg)](https://github.com/shoplinechecker/shoplinechecker.js)
 
+![ShoplineChecker](./Shopline-Checker-ScreenShot.png)
+
 **ShoplineChecker.js** 是一個輕量級的瀏覽器端 JavaScript 腳本，專為 Shopline 商家、開發者及資安研究人員設計。它能快速掃描店舖前端頁面，識別潛在的敏感數據外洩（如 Session ID、使用者 PII、訂單金額）、隱私合規風險（Pixel 數據）及安全設定缺失（CSP/XFO），並自動產生修復建議報告。
 
 ## ✨ 功能特性 (Features)
